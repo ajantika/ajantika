@@ -1,6 +1,6 @@
 # Hi, I'm Ajantika 👋
 
-**Analytics & AI Systems Lead · Ex-Cloudflare · Open to Work**
+**Analytics & AI Systems Lead **
 
 I build LLM-powered analytics tools that replace manual data work at scale.
 

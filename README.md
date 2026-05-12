@@ -15,7 +15,7 @@ I build LLM-powered analytics tools that replace manual data work at scale.
 `LangChain` `ChromaDB` `RAG` `Tableau` `dbt` `GitLab` `Git`
 
 ### 📌 Featured projects
-🔗 [Analytics AI Skill System](https://github.com/ajantika/analytics-ai-skill-system) — coming this week  
+🔗 [Analytics AI Skill System](https://github.com/ajantika/analytics-ai-skill-system)   
 🔗 [Analytics RAG Assistant](https://github.com/ajantika/analytics-rag-assistant) — coming this week
 
 📫 ajantikapal@gmail.com · [LinkedIn](https://linkedin.com/in/ajantika-paul)  

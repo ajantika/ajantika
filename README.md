@@ -11,7 +11,7 @@ I build AI-powered data products that make complex analytics accessible to non-t
 | | |
 |---|---|
 | **10,000+** | business accounts served by data products I own |
-| **$1.4M** | MRR opportunity surfaced through product usage analysis |
+| **$3M** | MRR opportunity surfaced through product usage analysis |
 | **24%** | YoY MRR increase supported by my KPI governance work |
 | **$216K** | annual productivity value from AI tools I shipped |
 | **15,000+** | annual queries handled by an AI product I built |

@@ -45,14 +45,17 @@ Owned product roadmap and 0→1 delivery. Aligned engineering, analytics, and bu
 
 ---
 
-### 🤖 Enterprise AI Knowledge Product
+### 📈 [Customer Analytics & Lifecycle](https://github.com/ajantika/paygo-growth-retention-360)
 
-**An internal AI product integrating wiki, travel policy, and operational systems via MCP.**
+**Owned KPI development and revenue analytics for a self-serve PAYGO (pay-as-you-go) segment that made up roughly 90% of the customer base.**
 
-Designed and launched to automate repetitive support across 5,000 employees and 1,000 new hires. Made the call on which integrations to ship first to maximize early adoption.
+Built revenue attribution frameworks tracking acquisition, conversion, retention, and churn cohorts. Informed product decisions contributing to a 24% YoY MRR increase.
 
-- **Impact:** 15,000+ annual queries, ~$200K eliminated in support costs, 150+ workdays recovered for a 5-person support team
-- **Stack:** MCP · LLM integrations · Python · Internal APIs
+The linked demo is a public, portfolio-shaped version of the same craft: a partner-reporting product for a usage-based PayGo customer base, covering the entire revenue lifecycle (new, expansion, contraction, churn, tier conversion), a PayGo to Enterprise graduation funnel with time-to-convert, churn-reason diagnostics, cohort retention, and per-account drilldowns, all tied to one canonical metric layer. The dashboard splits MRR into plan vs usage (subscription proceeds vs consumption), runs an MRR bridge that ties out every month, and isolates tier conversion from organic expansion so NRR isn't artificially inflated by self-serve to Enterprise jumps. A cohort retention heatmap shows signup-month cohorts across months since signup so PMs can spot structural drop-offs. Native PPTX export on the Overview and Account 360 pages produces a branded executive deck and per-account report in one click. Every metric has a definition tooltip, every page reads from a single semantic layer (lib/metrics.py), and every dollar movement is named and accounted for.
+
+- **Impact:** ~90% of the customer base · Contributed to a 24% YoY MRR increase · End-to-end revenue lifecycle: acquisition, conversion, retention, churn
+- **Stack:** Python · Streamlit · Plotly · pandas · python-pptx · PyArrow
+- **🔗 Live demo:** [paygo-growth-retention-360.streamlit.app](https://paygo-growth-retention-360.streamlit.app/)
 
 ---
 

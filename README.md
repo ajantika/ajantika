@@ -96,9 +96,9 @@ I treat **AI as an operating partner**, not a buzzword. I use Claude Code and Wi
 
 ## 📬 Currently Exploring
 
-Senior/Lead roles in **Data Product Management**, **Technical Product Management**, **AI Product Management**, and **Product Analytics**, particularly at companies where data and AI are core to the product.
+Open to conversations about AI Product Management, Data Product, and Product Analytics leadership roles — especially with teams building AI-native products where governance, measurement, and cross-functional rigor matter.
 
-**Reach out:** [ajantikapal@gmail.com](mailto:ajantikapal@gmail.com) · [LinkedIn](https://linkedin.com/in/ajantika-paul) · Livermore, CA · Open to remote
+✉ [Email me](mailto:ajantikapal@gmail.com) · [LinkedIn](https://linkedin.com/in/ajantika-paul)
 
 ---
 

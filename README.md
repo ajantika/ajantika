@@ -58,6 +58,18 @@ The linked demo is a public, portfolio-shaped version of the same craft: a partn
 
 ---
 
+### 🧭 [Customer Success Orchestrator](https://github.com/ajantika/customer-success-orchestrator)
+
+**An independent product prototype for customer onboarding and meeting preparation.**
+
+An interactive prototype that turns customer context into setup guidance, support handoffs, and meeting recommendations, designed with human review, clear decision rules, and activity tracking. It uses sample data and prepared responses; the default demo does not call an AI model or connect to real customer systems.
+
+- **Scope:** Two workflows: setup support and meeting preparation
+- **Stack:** Python · Streamlit · SQLite · Pydantic · pytest
+- **🔗 Live demo:** [customer-success-orchestrator.streamlit.app](https://customer-success-orchestrator.streamlit.app/) · **Case study:** [ajantika.github.io](https://ajantika.github.io/customer-success-orchestrator.html)
+
+---
+
 ## 🛠️ How I Work
 
 I treat **AI as an operating partner**, not a buzzword. I use Claude Code and Windsurf (powered by Claude) to compress multi-week build cycles into days, shipping 5+ production AI products in the last year. The pattern:

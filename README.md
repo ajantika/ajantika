@@ -85,7 +85,7 @@ I treat **AI as an operating partner**, not a buzzword. I use Claude Code and Wi
 
 | Company | Role | When |
 |---------|------|------|
-| **Cloudflare** | Lead Product Data Analyst (Data Products & AI Systems) | Nov 2022 to Present |
+| **Cloudflare** | Lead Product Data Analyst (Data Products & AI Systems) | Nov 2022 to Jun 2026 |
 | **Sprinklr** | Senior Data Analyst | Sep 2021 to Oct 2022 |
 | **Commvault** | Data Science Analyst | Jun 2019 to Aug 2021 |
 | **Equinix** | Workforce Data Analyst Intern | Jun 2018 to Dec 2018 |
